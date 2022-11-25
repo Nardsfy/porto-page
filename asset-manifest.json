@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1235889.css",
+    "main.js": "/static/js/main.e82b9a90.js",
+    "static/js/787.5242c071.chunk.js": "/static/js/787.5242c071.chunk.js",
+    "static/media/profile_picture.JPG": "/static/media/profile_picture.d2ea14066e6b6182d302.JPG",
+    "static/media/uksw.png": "/static/media/uksw.1a2e28ae8b0dbbc818da.png",
+    "static/media/cover.jpg": "/static/media/cover.d4df05ab01ce7dd54220.jpg",
+    "static/media/alfamart.png": "/static/media/alfamart.b2f642f329a34f1f5f23.png",
+    "index.html": "/index.html",
+    "main.c1235889.css.map": "/static/css/main.c1235889.css.map",
+    "main.e82b9a90.js.map": "/static/js/main.e82b9a90.js.map",
+    "787.5242c071.chunk.js.map": "/static/js/787.5242c071.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1235889.css",
+    "static/js/main.e82b9a90.js"
+  ]
+}
